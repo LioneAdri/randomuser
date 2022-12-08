@@ -1,0 +1,22 @@
+.user {
+    margin: 1rem;
+    padding: 10px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    border-radius: 12px;
+    color: #000000;
+    padding-bottom: 15px;
+}
+
+.user h2 {
+    margin: 0;
+}
+
+.user h3 {
+    margin: 0;
+    font-size: 1rem;
+}
+
+.user img {
+    float: left;
+    margin: 5px;
+}

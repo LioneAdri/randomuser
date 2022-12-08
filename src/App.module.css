@@ -1,0 +1,9 @@
+.app {
+    max-width: 800px;
+    margin: auto;
+}
+
+.app p{
+    text-align: center;
+    clear: both;
+}
